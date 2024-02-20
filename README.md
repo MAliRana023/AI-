@@ -1,3 +1,3 @@
-# AI-
-classification on the Titanic dataset, we'll first need to preprocess the data, which involves handling missing values, encoding categorical variables, and splitting the dataset into features and target variables. Then, we can apply various classification algorithms. Here's a step-by-step guide using Python and some popular machine learning libraries:
+# Data science 
+Data scientist with expertise in analyzing large datasets, extracting insights, and building predictive models. Proficient in machine learning, statistical analysis, and data visualization techniques. Passionate about solving complex problems and leveraging data-driven approaches to drive business decisions and innovation
 
